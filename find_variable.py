@@ -63,9 +63,9 @@ def find_accuracy(alpha):
 # In[13]:
 
 
-alphas = [0.1, 0.01, 0.001]
-for alpha in alphas:
-    print(alpha, find_accuracy(alpha))
+# alphas = [0.1, 0.01, 0.001]
+# for alpha in alphas:
+#     print(alpha, find_accuracy(alpha))
 
 
 # In[ ]:
